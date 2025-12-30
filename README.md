@@ -78,37 +78,8 @@ Webcode-Agency-Website/
 ├── vercel.json                   # Vercel deployment configuration
 ├── vite.config.js                # Vite build configuration
 └── README.md                     # Project documentation
-Webcode-Agency-Website/
-│
-├── components/                   # Reusable UI components
-│   ├── ErrorPage.jsx         # 404 error page component
-│   ├── Footer.jsx            # Footer component with newsletter
-│   ├── HeadingSection.jsx    # Reusable heading section
-│   ├── Login.jsx             # Login form with social auth
-│   ├── Navbar.jsx            # Navigation bar component
-│   └── Register.jsx          # Registration form
-│
-├── context/                      # React Context providers
-│   └── AuthContext.jsx           # Authentication logic and state
-│
-├── pages/                        # Page-level components
-│   ├── Home.tsx                  # Main landing page
-│   ├── Services.tsx              # Detailed services showcase
-│   ├── Pricing.tsx               # Subscription plans
-│   ├── Blogs.tsx                 # Article listing and search
-│   ├── Login.tsx                 # Combined login/signup portal
-│   └── Dashboard.tsx             # Protected user analytics area
-│
-├── types.ts                      # TypeScript interfaces and types
-├── constants.tsx                 # Static application data (services, plans, posts)
-├── App.tsx                       # Main application shell and routing
-├── index.tsx                     # Entry point
-├── index.html                    # HTML document template
-├── metadata.json                 # Project configuration
-└── README.md                     # Documentation
+
 ```
-
-
 
 ## 🎯 Key Features Implemented
 
